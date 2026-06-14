@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+Pipelines+%E2%80%A2+LangGraph+%E2%80%A2+Multi-Agent+AI;Next.js+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Node.js;300%2B+DSA+%E2%80%A2+Hacktoberfest+%E2%80%A2+GSSoC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+Pipelines+%E2%80%A2+LangGraph+%E2%80%A2+Multi-Agent+AI;Next.js+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+Node.js;300%2B+DSA+%E2%80%A2+Hacktoberfest+%E2%80%A2+GSSoC)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 <br/>
 
 I'm a **B.Tech AI student** at Newton School of Technology,
-Rishihood University &nbsp;·&nbsp; GPA **8.36** &nbsp;·&nbsp; Graduating **2028**
+Rishihood University &nbsp;·&nbsp; Graduating **2028**
 
 <br/>
 
@@ -35,8 +35,9 @@ I build at the intersection of **full-stack engineering** and
 ```python
 shourya = {
   "role"     : ["Full Stack Engineer", "AI/ML Builder"],
-  "stack"    : ["Next.js", "Django", "React", "Node.js"],
+  "stack"    : ["Next.js", "Django", "FastAPI", "Node.js"],
   "ai"       : ["LangGraph", "LangChain", "FAISS", "RAG", "LLMs"],
+  "tools"    : ["n8n", "LangSmith", "Docker", "AWS", "GCP"],
   "learning" : ["Reinforcement Learning", "Causal Inference"],
   "dsa"      : "300+ problems solved",
   "os"       : ["Hacktoberfest 2024 (4x)", "GSSoC"],
@@ -62,17 +63,18 @@ shourya = {
 
 <br/>
 
-### 🎓 &nbsp; [Bodh AI](https://github.com/shouryapratap132006/BodhAI)
+### 🎓 &nbsp; [Bodh AI](https://github.com/shouryapratap132006/BodhAI) &nbsp; · &nbsp; [🔗 Live](https://bodh-ai-kappa.vercel.app/)
 `Autonomous AI Tutor`
 
 <br/>
 
-Agentic tutoring platform built with multi-agent LangGraph workflows and a FAISS-based multimodal RAG pipeline. Detects learning gaps in real time, generates adaptive curriculum paths, and guides students through personalized structured learning — end-to-end on Django + Next.js + PostgreSQL.
+Agentic tutoring platform built with multi-agent LangGraph workflows and a FAISS-based multimodal RAG pipeline. Detects learning gaps in real time, generates adaptive curriculum paths, and guides students through personalised structured learning — end-to-end on Django + Next.js + PostgreSQL.
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -85,12 +87,12 @@ Agentic tutoring platform built with multi-agent LangGraph workflows and a FAISS
 
 <br/>
 
-### 📊 &nbsp; [Hilton AI](https://github.com/shouryapratap132006)
+### 📊 &nbsp; [Hilton AI](https://github.com/Anshuman-utd/Autonomous-Data-scientist) &nbsp; · &nbsp; [🔗 Live](https://autonomous-data-scientist-green.vercel.app/)
 `Autonomous Data Scientist`
 
 <br/>
 
-Full-stack AI platform that automates the entire data science workflow — EDA, feature engineering, model selection, hyperparameter tuning, and evaluation — using Scikit-learn and Pandas. Layered with a RAG-based conversational interface via LangGraph for context-aware, dynamic pipeline insights.
+Full-stack AI platform that automates the entire data science workflow — EDA, model training, and evaluation — using Scikit-learn and Pandas. Layered with a RAG-based conversational system and LangGraph workflows for context-aware insights and scalable SaaS pipeline execution.
 
 <br/>
 
@@ -111,18 +113,19 @@ Full-stack AI platform that automates the entire data science workflow — EDA, 
 
 <br/>
 
-### 📝 &nbsp; [Assessment Design System](https://github.com/shouryapratap132006/question_difficulty_bloomlevel_analysis)
+### 📝 &nbsp; [Assessment Design System](https://github.com/shouryapratap132006/question_difficulty_bloomlevel_analysis) &nbsp; · &nbsp; [🔗 Live](https://huggingface.co/spaces/shouryasiso/question-difficulty-analysis)
 `ML + NLP Exam Analyzer`
 
 <br/>
 
-ML and NLP system that analyzes exam questions to predict cognitive difficulty and Bloom's taxonomy levels using TF-IDF feature extraction and Scikit-learn classifiers. Calibrated against real student performance data and deployed on Streamlit and Hugging Face for live inference.
+ML and NLP system that analyses exam questions to predict cognitive difficulty and Bloom's taxonomy levels using TF-IDF feature extraction and Scikit-learn classifiers. Backed by a LangGraph-based multi-agent RAG pipeline — deployed on Streamlit and Hugging Face for live inference.
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-09A3D5?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -133,22 +136,52 @@ ML and NLP system that analyzes exam questions to predict cognitive difficulty a
 
 <br/>
 
-### 💰 &nbsp; [Pocket Pilot AI](https://github.com/shouryapratap132006/pocketpilotai)
+### 🕵️ &nbsp; [ColdCase AI](https://github.com/shouryapratap132006/coldcase-ai)
+`Citation-Aware QA System`
+
+<br/>
+
+Citation-aware RAG system using SentenceTransformers and FAISS to ground LLM answers in retrieved documents with explicit source attribution. Engineered to reduce hallucination and deliver verifiable, document-backed responses via OpenAI and Gemini APIs.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<br/>
+
+### 💰 &nbsp; [Pocket Pilot AI](https://github.com/shouryapratap132006/pocketpilotai) &nbsp; · &nbsp; [🔗 Live](https://pocketpilotai.vercel.app/)
 `AI Personal Finance Advisor`
 
 <br/>
 
-Production-quality full-stack personal finance advisor powered by LangGraph, FastAPI, and Next.js. Delivers intelligent, context-aware financial guidance through a conversational interface — built with agentic workflows for dynamic, personalised advice.
+LangGraph-powered personal finance copilot that analyses budgets, detects overspending patterns, and generates personalised savings plans. Built on FastAPI and Next.js with LangChain tool orchestration and OpenAI/Gemini API for dynamic, context-aware financial guidance.
 
 <br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <br/>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -170,12 +203,12 @@ Production-quality full-stack personal finance advisor powered by LangGraph, Fas
 
 <br/>
 
-### 🔄 &nbsp; [DevSync](https://github.com/shouryapratap132006/devsync)
-`AI Career Growth Partner` &nbsp; · &nbsp; [🔗 Live](https://devsync-beta.vercel.app/)
+### 🔄 &nbsp; [DevSync](https://github.com/shouryapratap132006/devsync) &nbsp; · &nbsp; [🔗 Live](https://devsync-beta.vercel.app/)
+`AI Career Growth Partner`
 
 <br/>
 
-AI-powered career mentorship platform that helps developers assess skills, generate personalised learning roadmaps, and track their progress. Features secure JWT authentication, dynamic dashboards, community features, smooth Framer Motion animations, and full CRUD for goals, roadmaps, posts, and profiles — on a scalable backend architecture.
+AI-powered career mentorship platform that helps developers assess skills, generate personalised learning roadmaps, and track progress. Features secure JWT auth, dynamic dashboards, community features, Framer Motion animations, and full CRUD for goals, roadmaps, posts, and profiles — on a scalable Express + MongoDB backend.
 
 <br/>
 
@@ -186,6 +219,7 @@ AI-powered career mentorship platform that helps developers assess skills, gener
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <br/>
 
@@ -194,19 +228,21 @@ AI-powered career mentorship platform that helps developers assess skills, gener
 
 <br/>
 
-### 📈 &nbsp; [UrbanUpTrend](https://github.com/shouryapratap132006)
-`Urban Analytics Platform`
+### 🤖 &nbsp; [E.D.I.T.H — Chatbot Maker](https://github.com/shouryapratap132006/chatbot) &nbsp; · &nbsp; [🔗 Live](https://chatbot-edith.vercel.app/)
+`Custom Chatbot Builder`
 
 <br/>
 
-Data-driven platform for analyzing and visualizing urban growth patterns and market trends. Combines real-world datasets with interactive dashboards to surface actionable insights for cities, planners, and researchers.
+Customisable chatbot maker web app with a dynamic UI and smooth Framer Motion animations. Lets users design, preview, and manage their own chatbot interfaces through an intuitive layout — powered by the Gemini API for intelligent, real-time responses.
 
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <br/>
@@ -219,21 +255,20 @@ Data-driven platform for analyzing and visualizing urban growth patterns and mar
 
 <br/>
 
-### 🤖 &nbsp; [E.D.I.T.H — Chatbot Maker](https://github.com/shouryapratap132006/chatbot)
-`Custom Chatbot Builder` &nbsp; · &nbsp; [🔗 Live](https://chatbot-edith.vercel.app/)
+### 📈 &nbsp; [UrbanUpTrend](https://github.com/shouryapratap132006)
+`Urban Analytics Platform`
 
 <br/>
 
-Customisable chatbot maker web app with a dynamic UI and smooth Framer Motion animations. Lets users design, preview, and manage their own chatbot interfaces through an intuitive, no-code-style layout — powered by the Gemini API for intelligent, real-time responses.
+Data-driven platform for analysing and visualising urban growth patterns and market trends. Combines real-world datasets with interactive dashboards to surface actionable insights for cities, planners, and researchers.
 
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 <br/>
 
@@ -247,7 +282,7 @@ Customisable chatbot maker web app with a dynamic UI and smooth Framer Motion an
 
 <br/>
 
-Developer tool for measuring and visualizing network latency, API response times, and performance bottlenecks in real time. Built for engineers who need fast, clear diagnostics without heavyweight infrastructure.
+Developer tool for measuring and visualising network latency, API response times, and performance bottlenecks in real time. Built for engineers who need fast, clear diagnostics without heavyweight infrastructure overhead.
 
 <br/>
 
@@ -283,6 +318,8 @@ Developer tool for measuring and visualizing network latency, API response times
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/><br/>
 
@@ -295,8 +332,8 @@ Developer tool for measuring and visualizing network latency, API response times
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 <br/><br/>
 
@@ -321,19 +358,34 @@ Developer tool for measuring and visualizing network latency, API response times
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=for-the-badge&logo=meta&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipeline-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+<br/><br/>
+
+### Data & Analysis
+
+<br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
-![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG_Pipeline-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 <br/><br/>
 
@@ -345,8 +397,8 @@ Developer tool for measuring and visualizing network latency, API response times
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br/><br/>
 
@@ -360,18 +412,8 @@ Developer tool for measuring and visualizing network latency, API response times
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br/><br/>
-
-### Data & Visualization
-
-<br/>
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 <br/><br/>
 
@@ -383,6 +425,43 @@ Developer tool for measuring and visualizing network latency, API response times
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
+
+<br/><br/>
+
+---
+
+<br/><br/>
+
+## 💼 &nbsp; Experience
+
+<br/><br/>
+
+<table>
+<tr>
+<td valign="top">
+
+<br/>
+
+### 🏢 &nbsp; Full Stack Developer Intern &nbsp; · &nbsp; Brightpoint Studios Pvt. Ltd.
+`Jan 2026 — Apr 2026` &nbsp; · &nbsp; Remote
+
+<br/>
+
+- Developed interactive web-based playable ads and applications using JavaScript and JS libraries
+- Implemented dynamic user interfaces and handled complex client-side logic
+- Identified and resolved bugs, performance bottlenecks, and runtime issues
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
@@ -416,22 +495,6 @@ Developer tool for measuring and visualizing network latency, API response times
 
 <br/><br/>
 
-## 🏆 &nbsp; GitHub Trophies
-
-<br/><br/>
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shouryapratap132006&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8)
-
-</div>
-
-<br/><br/>
-
----
-
-<br/><br/>
-
 ## 📈 &nbsp; Contribution Activity
 
 <br/><br/>
@@ -448,16 +511,16 @@ Developer tool for measuring and visualizing network latency, API response times
 
 <br/><br/>
 
-## 🤝 &nbsp; Open Source
+## 🏅 &nbsp; Certifications & Open Source
 
 <br/><br/>
 
 <div align="center">
 
-| &nbsp;&nbsp; Program &nbsp;&nbsp; | &nbsp;&nbsp; Role &nbsp;&nbsp; | &nbsp;&nbsp; Year &nbsp;&nbsp; |
+| &nbsp;&nbsp; Achievement &nbsp;&nbsp; | &nbsp;&nbsp; Details &nbsp;&nbsp; | &nbsp;&nbsp; Year &nbsp;&nbsp; |
 |:---|:---|:---:|
-| 🎃 &nbsp; Hacktoberfest | **4x Contributor Badge** | 2024 |
-| 👩‍💻 &nbsp; GirlScript Summer of Code | **Contributor** | 2024 |
+| 🎃 &nbsp; Hacktoberfest | **4x Open Source Contributor Badge** | 2024 |
+| 👩‍💻 &nbsp; GirlScript Summer of Code | **Open Source Contributor** | 2024 |
 
 </div>
 
