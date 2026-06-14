@@ -1,5 +1,3 @@
-[README (4).md](https://github.com/user-attachments/files/28927333/README.4.md)
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shourya%20Pratap&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%20%7C%20%20AI%2FML%20Builder%20%20%7C%20%20Open%20Source%20Contributor&descAlignY=58&descSize=17" width="100%"/>
